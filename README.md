@@ -1,4 +1,54 @@
-# Getting Started with Create React App
+# Getting Started with GitHub Profile Finder 
+
+### Github Profile Finder is a webpage where users can search the any github user just by type their names.
+
+## Short Glimpse of Webpage :
+
+### Login Page :
+
+#### As soon as you enter my webpage it will ask you to login before you get into the dashboard.Once you login then only you will be accessed to dashboard.
+[](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/LoginPage_Github_PF.png)
+
+### Register Page :
+
+#### If incase if dont have an account before you can create a new account by just clicking the Register Button .Once You create you have to login to get into the dashboard.
+[](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/Register_Github_PF.png)
+
+## DashBoard :
+#### This is an empty dashboard, you can search the name of person whomever you want in the input box.
+![Empty Dashboard](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/EmptyDashBoard_Github_PF.png)
+
+### Results :
+### Desktop View :
+![Desktop View](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/Github_PF_Desktop.png)
+
+### Tablet View :
+![Tablet View](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/Github_PF_Tablets.png)
+
+
+### Mobile View :
+![Mobile View](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/Github_PF_Mobile.png)
+
+
+
+### Tech Stack Used :
+
+- ReactJS
+- Redux-Thunk
+- HTML5
+- CSS3
+- JavaScript
+- Ant Design
+- [Github Api](https://api.github.com/search/users?q=)
+
+### Deployed Link :
+
+[View](https://search-github-profiles-raman-boddula.vercel.app/)
+
+# Thank you ! 
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
