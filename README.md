@@ -7,12 +7,12 @@
 ### Login Page :
 
 #### As soon as you enter my webpage it will ask you to login before you get into the dashboard.Once you login then only you will be accessed to dashboard.
-[](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/LoginPage_Github_PF.png)
+![Login](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/LoginPage_Github_PF.png)
 
 ### Register Page :
 
 #### If incase if dont have an account before you can create a new account by just clicking the Register Button .Once You create you have to login to get into the dashboard.
-[](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/Register_Github_PF.png)
+![Register](https://raw.githubusercontent.com/raman-boddula/Github-Profile-Finder/main/public/Register_Github_PF.png)
 
 ## DashBoard :
 #### This is an empty dashboard, you can search the name of person whomever you want in the input box.
